@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">                        <!--------=======Linking css=======-------->
+                                                    <!---=========CONTENT-TITLE======-------->
+    <title>THE INDIAN ARMY RANKS AND INSIGNIA</title>
+
+                                             <!---=========Slider and logo design inside style tag======-------->
+<style>
+.maindiv{
+  width: 85%;
+  height: 300px;
+  display: flex;
+  flex-shrink: wallpapercave;
+  position: relative;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 40px;
+  left: 50%;
+  top: 20%;
+  transform: translate(-50%,-40%);
+  background-size: 100% 100%;
+  backgroundimage: url("https://thumbs.dreamstime.com/b/indian-army-patrolling-india-gate-having-fun-time-49023604.jpg");
+  box-shadow: 1px 1.5px 10px 2.5px black;
+  animation:slider 15s infinite linear;
+}
+  .logo{
+    width: 150px;
+    height: 168px;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    transform: translate(-50%,-50%);
+    background-size: 50% 50%;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ADGPI_Indian_Army.svg/1200px-ADGPI_Indian_Army.svg.png");
+    box-shadow: 1px 1.5px 10px 2.5px black;
+}
+  @keyframes slider {
+    0%{ background-image: url("https://thumbs.dreamstime.com/b/indian-army-patrolling-india-gate-having-fun-time-49023604.jpg");}
+
+    25%{ background-image: url("https://wallpapercave.com/wp/wp2556616.jpg");}
+
+    50%{ background-image: url("https://img.onmanorama.com/content/dam/mm/en/news/india/images/2021/12/8/bipin-rawat-4.jpg");}
+
+    75%{ background-image: url("https://www.businessinsider.in/photo/70187434.cms");}
+
+    100%{ background-image: url("https://cutewallpaper.org/21/indian-army-logo-wallpapers/Flag-Of-The-Indian-Army-Indian-Army-Day-Logo-Download-.png");}
+  }
+</style>
+
+  </head>
+  <body>
+                                                <!---=========camouflage background======-------->
+    <header id="showcase">
+      <meta showcase="viewport" content="width=device, initial-scale=1.0">
+                                                <!---=========header-design======-------->
+        <div id="right-nav">
+          <li> <a href="#"> <b>HOME</b> </a> </li>
+          <li> <a href="#"> <b>ABOUT</b> </a> </li>
+         </div>
+         <div class="logo"></div>
+<h1><center> <b> THE INDIAN ARMY RANKS AND INSIGNIA</b> </center></h1>
+                                               <!---=========Overview-design======-------->
+<h2>OVERVIEW</h2>
+<p> <b>The one organization that stays in the forefront when it comes to serving the nation, both in wartime and in peace, is the Indian Army. The Indian Army, with its impressive performance, is the fourth largest standing army in the world with over 1,362,500 active troops and 2,100,000 reserve troops. Each year over a lakh candidates apply for GD (General Duty) and thousands for entry into commissioned ranks.</b> </p>
+<a href="#" class="<button"> <b>Read More</b> </a>
+<div class="maindiv"></div>b
+    </header>
+                                               <!--------=======Body-design=======-------->
+<p><h3>COMISSIONED OFFICERS OF THE INDIAN ARMY</h3></p>
+<br>
+
+<p><b>RANK – FIELD MARSHAL</b><br>
+<b>INSIGNIA- </b> National emblem over a crossed baton and saber in a lotus blossom wreath
+<br>
+The Field Marshal rank is the highest rank in the Indian Army. It is a ceremonial or wartime rank and Field Marshal Sam Manekshaw and Field Marshal KM Cariappa have been the only two officers to be elevated to the rank of Field Marshal.
+<br>
+<br>
+
+<p><b>RANK – GENERAL</b><br>
+<b>INSIGNIA- </b> National emblem over a five-pointed star, both over a crossed baton and saber
+<br>
+Apart from the honorary rank of Field Marshal, this is the highest rank held by an Army officer. It is only the Chief of Army Staff (COAS) who holds this rank.<br>
+<b>Incumbent- </b> General Bipin Rawat, COAS<br>
+<b>Retirement- </b> After 3 years as COAS or at the age of 62, whichever is earlier
+<br>
+<br>
+
+<p><b>RANK – LIEUTENANT GENERAL</b><br>
+<b>INSIGNIA- </b> National emblem over crossed baton and saber
+<br>
+Lieutenant generals are appointed only by selection (after 36 years of commissioned service) and may hold the position of a Vice Chief of Army Staff or Army Commanders.<br>
+<b>Retirement- </b> At the age of 60
+<br>
+<br>
+
+<p><b>RANK – MAJOR GENERAL</b><br>
+<b>INSIGNIA- </b> Five-pointed star over crossed baton and saber
+<br>
+Major Generals are promoted by selection (after 32 years of commissioned service).<br>
+<b>Retirement- </b> At the age of 58
+<br>
+<br>
+
+<p><b>RANK – BRIGADIER</b><br>
+<b>INSIGNIA- </b>  National emblem over three five-pointed stars in a triangular formation
+<br>
+Brigadiers are promoted by selection (after 25 years of commissioned service)<br>
+<b>Retirement- </b> At the age of 56
+<br>
+<br>
+<p><b>RANK – COLONEL</b><br>
+<b>INSIGNIA- </b> National emblem over two five-pointed stars
+<br>
+Colonels may be promoted by selection (after 15 years of commissioned service) or may be promoted (time-scale) after 26 years of commissioned service. Time-scale Colonels may, however, only hold the portfolio of a Lt. Colonel.<br>
+<b>Retirement- </b> At the age of 54
+<br>
+<br>
+
+<p><b>RANK – LIEUTENANT COLONEL</b><br>
+<b>INSIGNIA- </b>  National emblem over five-pointed stars
+<br>
+Time bound promotion on completion of 13 years commissioned service.<br>
+<p><b>RANK – MAJOR</b><br>
+<b>INSIGNIA- </b>  National emblem
+<br>
+Time bound promotion on completion of 6 years commissioned service.
+<br>
+<br>
+
+<p><b>RANK – CAPTAIN</b><br>
+<b>INSIGNIA- </b>  Three five-pointed stars
+<br>
+Time bound promotion on completion of 2 years commissioned service
+<br>
+<br>
+
+<p><b>RANK – LIEUTENANT</b><br>
+<b>INSIGNIA- </b>  Two five-pointed stars
+<br>
+Rank achieved on commissioning into Indian Army as an Officer
+<br>
+</p>
+                                                 <!--------=======Image-1=======-------->
+<center><img src="https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2019/09/03131430/indian-army-ranks-commissioned-officers-insignia-embibe.png" alt="width="250" height="250""></center>
+<br>
+<h3>JUNIOR COMISSIONED OFFICERS OF THE INDIAN ARMY</h3>
+<br>
+<p><b>RANK – SUBEDAR MAJOR(Infantry) OR RISALDAR MAJOR(Cavalary And Armoured Regiments)</b><br>
+<b>INSIGNIA- </b> Gold national emblem with stripe
+<br>
+<b>Promotion by selection</b><br>
+<b>Retirement- </b>  After 34 years service or at the age of 54, whichever is earlier <br>
+<br>
+<br>
+<b>RANK – SUBEDAR(Infantry) OR RISALDAR(Cavalary And Armoured Regiments)</b><br>
+<b>INSIGNIA- </b> Two gold stars with stripe
+<br>
+<b>Promotion by selection</b><br>
+<b>Retirement- </b>  After 30 years service or at the age of 52, whichever is earlier <br>
+<br>
+<br>
+<b>RANK – NAIB SUBEDAR(Infantry) OR NAIB RISALDAR(Cavalary And Armoured Regiments)</b><br>
+<b>INSIGNIA- </b> One gold stars with stripe
+<br>
+<b>Promotion by selection</b><br>
+<b>Retirement- </b>  After 28 years service or at the age of 52, whichever is earlier <br>
+<br>
+                                                  <!--------=======Image-2=======-------->
+<center><img src="https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2019/09/03135547/indian-army-ranks-junior-commissioned-officers-insignia-embibe.png" alt=width="250" height="250"></center>
+</p>
+<br>
+
+<h3>NON COMISSIONED OFFICERS OF THE INDIAN ARMY</h3>
+<p>
+<br>
+<b>RANK – HAVILDAR(Infantry) OR DAFFADAR(Cavalary And Armoured Regiments)</b><br>
+<b>INSIGNIA- </b> Three rank chevrons
+<br>
+<b>Promotion by selection</b><br>
+<b>Retirement- </b>  After 26 years service or at the age of 49, whichever is earlier <br>
+<br>
+<br>
+
+<b>RANK – NAIK(Infantry) OR LANCE DAFFADAR(Cavalary And Armoured Regiments)</b><br>
+<b>INSIGNIA- </b> Two rank chevrons
+<br>
+<b>Promotion by selection</b><br>
+<b>Retirement- </b>  After 24 years service or at the age of 49, whichever is earlier <br>
+<br>
+<br>
+
+<b>RANK – LANCE NAIK(Infantry) OR ACTING LANCE DAFFADAR(Cavalary And Armoured Regiments)</b><br>
+<b>INSIGNIA- </b> One rank chevrons
+<br>
+<b>Promotion by selection</b><br>
+<b>Retirement- </b>  After 22 years service or at the age of 48, whichever is earlier <br>
+<br>
+                                                 <!--------=======Image-3=======-------->
+<center> <img src="https://blog.trishuldefenceacademy.com/wp-content/uploads/2019/11/indian-army-ranks-non-commissioned-officers-soldiers-insignia-embibe.png" alt="width= 250" height="250">  </center>
+</p>
+<br>
+
+<h3>SOLDIERS </h3>
+<p>
+<br>
+<b>RANK - SEPOY</b><br>
+<b>INSIGNIA- </b>Plain shoulder badge
+<br>
+The Sepoys identify themselves according to the Corps that they serve in. For example, a sepoy from Signals will identify him as Signalman, from Infantry as RIfleman and from the Armoured Corps as Gunner.
+</p>
+                                                 <!--------=======Image-4=======-------->
+<center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Placeholder-No-Insignia.svg/1200px-Placeholder-No-Insignia.svg.png" alt="width=250" height="250"> </center>
+<body>
+                                            <!--------===========footer-design============-------------->
+  <footer>
+<p>
+<center><b> Copyright &copy; INDIAN ARMY, <script>document.write(new Date().getFullYear());
+</script> </b>
+</center>
+</p>
+                                                 <!--------=======Linking Javascript=======-------->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"> </script>
+  </footer>
+</body>
+</html>
